@@ -1,4 +1,4 @@
-## README: MPU6050 Yaw Reader with Wire.h
+## MPU6050 Yaw Reader with Wire.h
 
 **Purpose:**
 
